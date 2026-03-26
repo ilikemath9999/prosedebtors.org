@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://prosedebtors.org/sitemap.xml
