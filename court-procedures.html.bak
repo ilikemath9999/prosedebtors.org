@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors</title>
-<meta content="Learn about pro se bankruptcy mistakes that lead to dismissal | prosedebtors.org in our free 2026 guide." name="description"/>
-<meta content="pro se bankruptcy mistakes, bankruptcy dismissal, common filing errors, avoid dismissal, self-filed bankruptcy errors" name="keywords"/>
-<link href="https://prosedebtors.org/common-mistakes.html" rel="canonical"/>
-<meta content="Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors" property="og:title"/>
-<meta content="Learn about pro se bankruptcy mistakes that lead to dismissal | prosedebtors.org in our free 2026 guide." property="og:description"/>
+<title>Bankruptcy Court Procedures for Pro Se Debtors</title>
+<meta content="Learn about bankruptcy court procedures for pro se debtors | prosedebtors.org in our free 2026 guide. Clear explanations, real data, and ..." name="description"/>
+<meta content="bankruptcy court procedures, pro se debtor court, 341 meeting what to expect, bankruptcy hearing etiquette" name="keywords"/>
+<link href="https://prosedebtors.org/court-procedures.html" rel="canonical"/>
+<meta content="Bankruptcy Court Procedures for Pro Se Debtors" property="og:title"/>
+<meta content="Learn about bankruptcy court procedures for pro se debtors | prosedebtors.org in our free 2026 guide. Clear explanations, real data, and ..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://prosedebtors.org/common-mistakes.html" property="og:url"/>
+<meta content="https://prosedebtors.org/court-procedures.html" property="og:url"/>
 <meta content="prosedebtors.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Pro Se Bankruptcy Mistakes That Lead to Dismissal - Pro Se Debtors" name="twitter:title"/>
-<meta content="Learn about pro se bankruptcy mistakes that lead to dismissal | prosedebtors.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Bankruptcy Court Procedures for Pro Se Debtors" name="twitter:title"/>
+<meta content="Learn about bankruptcy court procedures for pro se debtors | prosedebtors.org in our free 2026 guide. Clear explanations, real data, and ..." name="twitter:description"/>
 <meta content="https://prosedebtors.org/og-image.svg" property="og:image"/>
 <meta content="https://prosedebtors.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -45,12 +45,12 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "What are the most common pro se bankruptcy mistakes?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Missing the 14-day document deadline, incomplete schedules, wrong exemptions, missing the 341 meeting, and not filing the debtor education certificate are the most common errors that lead to dismissal."}},
-    {"@type": "Question", "name": "Can I file Chapter 13 without a lawyer?",
-     "acceptedAnswer": {"@type": "Answer", "text": "You have the legal right to, but pro se Chapter 13 cases fail at very high rates due to the complexity of plan drafting and administration. Chapter 7 is much more manageable pro se."}},
-    {"@type": "Question", "name": "What happens if I miss a bankruptcy deadline?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Missing deadlines can result in case dismissal, denial of discharge, or other adverse consequences. Set calendar reminders and check your court docket regularly."}}
+    {"@type": "Question", "name": "What happens at a 341 meeting of creditors?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The trustee puts you under oath and asks questions about your petition, assets, income, and debts for about 5-15 minutes. Creditors may attend but rarely do in consumer cases."}},
+    {"@type": "Question", "name": "What should I bring to a 341 meeting?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Government-issued photo ID, proof of Social Security number, most recent tax return, recent pay stubs, and a copy of your filed petition."}},
+    {"@type": "Question", "name": "How should I address a bankruptcy judge?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Address the judge as Your Honor. Stand when speaking. Dress professionally and be on time."}}
   ]
 }
 </script>
@@ -60,8 +60,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Common Mistakes to Avoid",
-      "description": "Top 10 mistakes pro se bankruptcy filers make that result in case dismissal. Missing deadlines, incomplete forms, and procedural errors to avoid.",
+      "headline": "Court Procedures for Pro Se Debtors",
+      "description": "What to expect at the 341 meeting, court hearings, and proper court etiquette for self-represented debtors in bankruptcy court.",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -73,7 +73,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://prosedebtors.org/common-mistakes.html"
+      "mainEntityOfPage": "https://prosedebtors.org/court-procedures.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -93,15 +93,15 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Common Mistakes to Avoid",
-          "item": "https://prosedebtors.org/common-mistakes.html"
+          "name": "Court Procedures for Pro Se Debtors",
+          "item": "https://prosedebtors.org/court-procedures.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Common Mistakes to Avoid",
-      "url": "https://prosedebtors.org/common-mistakes.html",
+      "name": "Court Procedures for Pro Se Debtors",
+      "url": "https://prosedebtors.org/court-procedures.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -202,29 +202,8 @@
     .content-section th, .content-section td { padding: 0.5rem; }
   }
 </style>
-<link href="https://prosedebtors.org/common-mistakes.html" hreflang="en" rel="alternate"/>
-<link href="https://prosedebtors.org/common-mistakes-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://prosedebtors.org/court-procedures.html" hreflang="en" rel="alternate"/>
+<link href="https://prosedebtors.org/court-procedures-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -239,68 +218,70 @@
 <a href="/free-help.html">Free Help</a>
 <a href="/attorney-not-responding.html">Attorney Issues</a>
 <a href="/checklist.html">Filing Checklist</a>
-<a class="active" href="/common-mistakes.html">Common Mistakes</a>
+<a href="/common-mistakes.html">Common Mistakes</a>
 <a href="/forms-guide.html">Forms Guide</a>
-<a href="/court-procedures.html">Court Procedures</a>
+<a class="active" href="/court-procedures.html">Court Procedures</a>
 <a href="/local-rules.html">Local Rules</a>
 </div>
 </nav>
 <header>
-<h1>Common <span class="accent">Mistakes</span> to Avoid</h1>
-<p class="subtitle">The top 10 errors that lead to case dismissal - and how to prevent them</p>
+<h1>Court Procedures for <span class="accent">Pro Se Debtors</span></h1>
+<p class="subtitle">What to expect at the 341 meeting, hearings, and how to conduct yourself</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">Pro Se Debtors</a> › Common Mistakes
+<a href="https://1328f.com/">Network</a> › <a href="/">Pro Se Debtors</a> › Court Procedures
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>Mistake 1: Missing the 14-Day Document Deadline</h2>
-<p>If you file a skeleton or incomplete petition, you have exactly 14 days to file the remaining schedules and documents. Miss this deadline and your case is automatically dismissed. Set a calendar reminder for day 10 and have everything ready.</p>
+<h2>The 341 Meeting of Creditors</h2>
+<p>The <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> (named after <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> of the Bankruptcy Code) is the one proceeding every debtor must attend. Here is what to expect:</p>
+<ul>
+<li><strong>Timing:</strong> 20-40 days after filing. The court sends you notice with the date, time, and location.</li>
+<li><strong>Location:</strong> Usually not in a courtroom - often a conference room at the federal building or courthouse.</li>
+<li><strong>Who is there:</strong> The <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> trustee, you, and possibly some creditors (creditors rarely appear in consumer cases).</li>
+<li><strong>What happens:</strong> The trustee puts you under oath and asks questions about your petition, schedules, assets, income, and debts. Typical duration: 5-15 minutes.</li>
+</ul>
 </div>
 <div class="content-section">
-<h2>Mistake 2: Forgetting the Credit Counseling Certificate</h2>
-<p>Your petition must include the <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling certificate</a>. If you file without it and do not have a valid excuse, the case may be dismissed. Complete counseling before you start filling out forms.</p>
+<h2>What to Bring to the 341 Meeting</h2>
+<ul>
+<li>Government-issued photo ID (driver's license or passport)</li>
+<li>Proof of Social Security number (SSN card, W-2, or SSA-1099)</li>
+<li>Most recent tax return</li>
+<li>Recent pay stubs (6 months)</li>
+<li>A copy of your filed petition and schedules</li>
+</ul>
 </div>
 <div class="content-section">
-<h2>Mistake 3: Incomplete Schedules</h2>
-<p>Every asset must be listed. Every debt must be listed. Every source of income must be disclosed. Omissions - even accidental ones - can result in denial of <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>, case <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, or even fraud charges. When in doubt, disclose.</p>
+<h2>Common Trustee Questions</h2>
+<ul>
+<li>Did you read your petition before signing it?</li>
+<li>Is everything in your petition true and complete?</li>
+<li>Do you have any assets not listed?</li>
+<li>Have you transferred any property in the past 2 years?</li>
+<li>Do you expect to receive any inheritance, lawsuit settlement, or other future income?</li>
+<li>Have you filed bankruptcy before?</li>
+</ul>
+<div class="green-box">
+<p><strong>Tip:</strong> Answer questions directly and briefly. Do not volunteer extra information. If you do not understand a question, ask the trustee to rephrase it. If you do not know the answer, say "I don't know" rather than guessing.</p>
+</div>
 </div>
 <div class="content-section">
-<h2>Mistake 4: Wrong Exemptions</h2>
-<p>Exemption law varies dramatically by state. Some states use federal <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>, others require state <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>, and some let you choose. Using the wrong exemptions means your property may not be protected. Research your state's specific exemptions carefully.</p>
-</div>
-<div class="content-section">
-<h2>Mistake 5: Not Attending the 341 Meeting</h2>
-<p>The 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a> is mandatory. If you do not appear, the case is continued or dismissed. Mark the date, plan transportation, and have backup plans for childcare or work conflicts.</p>
-</div>
-<div class="content-section">
-<h2>Mistake 6: Not Filing the Debtor Education Certificate</h2>
-<p>After the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>, you must complete the debtor education course and file the certificate before the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> deadline. If you do not file it, you will not receive a discharge. The case may even be closed without discharge.</p>
-</div>
-<div class="content-section">
-<h2>Mistake 7: Ignoring Court Orders and Motions</h2>
-<p>If the trustee or a creditor files a motion, or if the court issues an order, you must respond by the deadline. Ignoring court orders is the fastest path to <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>. Check your court docket regularly (<a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> or the court's free public access system).</p>
-</div>
-<div class="content-section">
-<h2>Mistake 8: Inaccurate Means Test</h2>
-<p>The <a href="https://meanstest.org">means test</a> calculation is complex and uses specific IRS standards. Common errors include using the wrong household size, wrong income period, or wrong expense categories. An incorrect <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> can result in a motion to dismiss under <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>.</p>
-</div>
-<div class="content-section">
-<h2>Mistake 9: Not Following Local Rules</h2>
-<p>Every bankruptcy court has local rules that supplement the federal rules. These cover everything from formatting requirements to document filing procedures. Not following them can delay your case or result in filings being rejected. <a href="/local-rules.html">Learn more about local rules →</a></p>
-</div>
-<div class="content-section">
-<h2>Mistake 10: Filing Chapter 13 Pro Se</h2>
-<p>While you have the legal right to file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">without an attorney</a>, the complexity of plan drafting, confirmation, and multi-year administration makes it extremely difficult. <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> cases have much higher failure rates than <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> cases. If you are considering Chapter 13, strongly consider at least a limited-scope consultation with a bankruptcy attorney.</p>
-<div class="warning-box">
-<p><strong>Statistics:</strong> Pro se Chapter 13 cases are dismissed at significantly higher rates than attorney-represented cases. Many courts have standing orders that specifically warn pro se debtors about the difficulty of Chapter 13 self-representation.</p>
-</div>
+<h2>Court Hearings (If Required)</h2>
+<p>Not every case requires a court hearing. But if there are objections, motions, or contested matters, you may need to appear before the bankruptcy judge. Tips:</p>
+<ul>
+<li>Dress professionally (business casual at minimum)</li>
+<li>Address the judge as "Your Honor"</li>
+<li>Stand when speaking to the judge</li>
+<li>Bring all relevant documents organized in a binder or folder</li>
+<li>Be on time - courts run on schedule and your case can be decided in your absence</li>
+</ul>
 </div>
 <div class="cta-box">
-<h3>Filing Resources</h3>
+<h3>Related Guides</h3>
 <div class="cta-links">
-<a class="primary-btn" href="/checklist.html">Filing Checklist</a>
-<a class="secondary-btn" href="/free-help.html">Free Help</a>
+<a class="primary-btn" href="https://341meeting.org?utm_source=prosedebtors.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341 Meeting Guide</a>
+<a class="secondary-btn" href="/local-rules.html">Local Rules</a>
 </div>
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
@@ -314,10 +295,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
 <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/checklist.html" style="color:#58a6ff">Filing Checklist</a> - Complete document checklist</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/forms-guide.html" style="color:#58a6ff">Forms Guide</a> - Walk through each form</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/free-help.html" style="color:#58a6ff">Free Help</a> - Where to get free bankruptcy help</p>
-<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> - Complete filing guide</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://341meeting.org" style="color:#58a6ff">341meeting.org</a> - Complete <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> guide</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/local-rules.html" style="color:#58a6ff">Local Rules</a> - Why local rules matter for <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> filers</p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/common-mistakes.html" style="color:#58a6ff">Common Mistakes</a> - Errors that lead to <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></p>
+<p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> - Full filing guide</p>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
 <div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
@@ -328,6 +309,9 @@
 <li><a href="https://bankruptcycost.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Cost Breakdown</a></li>
 <li><a href="https://howmuchdoesbankruptcycost.com" style="color:#58a6ff;text-decoration:none">How Much Does Bankruptcy Cost?</a></li>
 </ul>
+</div>
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+<a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
 </div>
 </main>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
@@ -380,6 +364,7 @@
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=prosedebtors.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=prosedebtors.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=prosedebtors.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=prosedebtors.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -395,7 +380,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=prosedebtors.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=prosedebtors.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=prosedebtors.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

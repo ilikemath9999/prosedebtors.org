@@ -16,19 +16,19 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Pro Se Bankruptcy Filing Checklist - Pro Se Debtors</title>
-<meta name="description" content="Step-by-step document checklist for filing bankruptcy without an attorney. Every form, certificate, and document you need, organized by p...">
-<meta name="keywords" content="pro se bankruptcy filing checklist, bankruptcy documents needed, bankruptcy forms list, self-filed bankruptcy">
-<link rel="canonical" href="https://prosedebtors.org/checklist.html">
+<title>Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors</title>
+<meta name="description" content="Learn about bankruptcy forms guide for pro se chapter 7 filers | prosedebtors.org in our free 2026 guide.">
+<meta name="keywords" content="bankruptcy forms guide, chapter 7 forms, pro se forms, petition form 101, schedule A/B, means test form">
+<link rel="canonical" href="https://prosedebtors.org/forms-guide.html">
 
-<meta property="og:title" content="Pro Se Bankruptcy Filing Checklist - Pro Se Debtors">
-<meta property="og:description" content="Step-by-step document checklist for filing bankruptcy without an attorney. Every form, certificate, and document you need, organized by p...">
+<meta property="og:title" content="Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors">
+<meta property="og:description" content="Learn about bankruptcy forms guide for pro se chapter 7 filers | prosedebtors.org in our free 2026 guide.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://prosedebtors.org/checklist.html">
+<meta property="og:url" content="https://prosedebtors.org/forms-guide.html">
 <meta property="og:site_name" content="prosedebtors.org">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pro Se Bankruptcy Filing Checklist - Pro Se Debtors">
-<meta name="twitter:description" content="Step-by-step document checklist for filing bankruptcy without an attorney. Every form, certificate, and document you need, organized by p...">
+<meta name="twitter:title" content="Bankruptcy Forms Guide for Pro Se Chapter 7 Filers - Pro Se Debtors">
+<meta name="twitter:description" content="Learn about bankruptcy forms guide for pro se chapter 7 filers | prosedebtors.org in our free 2026 guide.">
 <meta property="og:image" content="https://prosedebtors.org/og-image.svg">
 <meta name="twitter:image" content="https://prosedebtors.org/og-image.svg">
 
@@ -48,12 +48,12 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage",
   "mainEntity": [
-    {"@type": "Question", "name": "What documents do I need to file bankruptcy pro se?",
-     "acceptedAnswer": {"@type": "Answer", "text": "You need: credit counseling certificate, petition, all schedules (A/B through J), statement of financial affairs, means test form, and a creditor matrix. For Chapter 13, add a proposed plan."}},
-    {"@type": "Question", "name": "How many copies of bankruptcy forms do I need?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Call your court clerk's office - requirements vary by district. Typically the original plus one copy for the trustee."}},
-    {"@type": "Question", "name": "Do I need to bring anything to the 341 meeting?",
-     "acceptedAnswer": {"@type": "Answer", "text": "Yes: government-issued photo ID, Social Security card or proof of SSN, most recent tax returns, and recent pay stubs."}}
+    {"@type": "Question", "name": "Where can I get free bankruptcy forms?",
+     "acceptedAnswer": {"@type": "Answer", "text": "All official forms are available free at uscourts.gov/forms/bankruptcy-forms. They are fillable PDFs you can complete on your computer."}},
+    {"@type": "Question", "name": "What is the hardest bankruptcy form to complete?",
+     "acceptedAnswer": {"@type": "Answer", "text": "The Statement of Financial Affairs (Form 107) is typically the most detailed and time-consuming. It covers income history, payments, transfers, and more for the past 2 years."}},
+    {"@type": "Question", "name": "Do I need to list everything I own on the bankruptcy forms?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Yes. Schedule A/B requires you to list ALL property you own or have an interest in. Failure to disclose assets can result in denial of discharge or criminal charges."}}
   ]
 }
 </script>
@@ -63,8 +63,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Pro Se Filing Checklist",
-      "description": "Step-by-step document checklist for filing bankruptcy without an attorney. Every form, certificate, and document you need, organized by phase.",
+      "headline": "Bankruptcy Forms Guide",
+      "description": "Walk through each required bankruptcy form for a Chapter 7 filing. Plain-language explanations of the petition, schedules, means test, and statement of financia",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -76,7 +76,7 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://prosedebtors.org/checklist.html"
+      "mainEntityOfPage": "https://prosedebtors.org/forms-guide.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -96,15 +96,15 @@
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Pro Se Filing Checklist",
-          "item": "https://prosedebtors.org/checklist.html"
+          "name": "Bankruptcy Forms Guide",
+          "item": "https://prosedebtors.org/forms-guide.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Pro Se Filing Checklist",
-      "url": "https://prosedebtors.org/checklist.html",
+      "name": "Bankruptcy Forms Guide",
+      "url": "https://prosedebtors.org/forms-guide.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -207,50 +207,8 @@
   }
 </style>
 
-<link rel="alternate" hreflang="en" href="https://prosedebtors.org/checklist.html">
-<link rel="alternate" hreflang="es" href="https://prosedebtors.org/checklist-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Pro Se Bankruptcy Filing Checklist - Pro Se Debtors",
-  "description": "Step-by-step document checklist for filing bankruptcy without an attorney. Every form, certificate, and document you need, organized by p...",
-  "url": "https://prosedebtors.org/checklist.html",
-  "applicationCategory": "FinanceApplication",
-  "operatingSystem": "Any",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Open Bankruptcy Project",
-    "url": "https://openbankruptcyproject.org"
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://prosedebtors.org/forms-guide.html">
+<link rel="alternate" hreflang="es" href="https://prosedebtors.org/forms-guide-es.html">
 </head>
 <body>
 
@@ -266,90 +224,75 @@
     <a href="/document-checklist.html">Documents</a>
     <a href="/free-help.html">Free Help</a>
     <a href="/attorney-not-responding.html">Attorney Issues</a>
-    <a href="/checklist.html" class="active">Filing Checklist</a>
+    <a href="/checklist.html">Filing Checklist</a>
     <a href="/common-mistakes.html">Common Mistakes</a>
-    <a href="/forms-guide.html">Forms Guide</a>
+    <a href="/forms-guide.html" class="active">Forms Guide</a>
     <a href="/court-procedures.html">Court Procedures</a>
     <a href="/local-rules.html">Local Rules</a>
   </div>
 </nav>
 
 <header>
-  <h1>Pro Se <span class="accent">Filing Checklist</span></h1>
-  <p class="subtitle">Everything you need to file - organized step by step</p>
+  <h1>Bankruptcy <span class="accent">Forms Guide</span></h1>
+  <p class="subtitle">Plain-language walk-through of every required Chapter 7 form</p>
 </header>
 
 <div class="breadcrumb" aria-label="Breadcrumb">
-  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Pro Se Debtors</a> &rsaquo; Filing Checklist
+  <a href="https://1328f.com/">Network</a> &rsaquo; <a href="/">Pro Se Debtors</a> &rsaquo; Forms Guide
 </div>
 
 <main id="main-content">
 
   <div class="content-section">
-    <h2>Phase 1: Before Filing</h2>
+    <h2>Where to Get the Forms</h2>
+    <p>All official bankruptcy forms are available free at <a href="https://www.uscourts.gov/forms/bankruptcy-forms">uscourts.gov/forms/bankruptcy-forms</a>. They are fillable PDF forms that you can complete on your computer and print.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Form 101 - Voluntary Petition</h2>
+    <p>This is your main petition form. It includes your name, address, Social Security number, which chapter you are filing under, and whether you have filed bankruptcy before. Key things to know:</p>
     <ul>
-      <li><input type="checkbox" disabled> Complete credit counseling (UST-approved provider, within 180 days)</li>
-      <li><input type="checkbox" disabled> Obtain <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling certificate</a></li>
-      <li><input type="checkbox" disabled> Gather 6 months of pay stubs</li>
-      <li><input type="checkbox" disabled> Gather 2 years of tax returns</li>
-      <li><input type="checkbox" disabled> Gather 6 months of bank statements (all accounts)</li>
-      <li><input type="checkbox" disabled> Collect all loan documents and creditor statements</li>
-      <li><input type="checkbox" disabled> Get current mortgage statement (if applicable)</li>
-      <li><input type="checkbox" disabled> List all creditors with names, addresses, account numbers, and balances</li>
-      <li><input type="checkbox" disabled> Determine property values (real estate, vehicles, personal property)</li>
-      <li><input type="checkbox" disabled> Research your state's <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a></li>
+      <li>Use your full legal name and all names you have used in the past 8 years</li>
+      <li>If filing jointly with a spouse, both names go on the petition</li>
+      <li>You must indicate whether you have completed <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a></li>
     </ul>
   </div>
 
   <div class="content-section">
-    <h2>Phase 2: Complete the Forms</h2>
-    <p>All official forms available free at <a href="https://www.uscourts.gov/forms/bankruptcy-forms">uscourts.gov</a>.</p>
-    <ul>
-      <li><input type="checkbox" disabled> <strong><a href="https://voluntarypetition.org/" title="voluntary petition">Voluntary Petition</a> (Form 101)</strong> - basic information, chapter selection</li>
-      <li><input type="checkbox" disabled> <strong>Schedule A/B</strong> - all property (real and personal)</li>
-      <li><input type="checkbox" disabled> <strong>Schedule C</strong> - property claimed as exempt</li>
-      <li><input type="checkbox" disabled> <strong>Schedule D</strong> - secured creditors</li>
-      <li><input type="checkbox" disabled> <strong>Schedule E/F</strong> - priority and unsecured creditors</li>
-      <li><input type="checkbox" disabled> <strong>Schedule G</strong> - executory contracts and unexpired leases</li>
-      <li><input type="checkbox" disabled> <strong>Schedule H</strong> - codebtors</li>
-      <li><input type="checkbox" disabled> <strong>Schedule I</strong> - current income</li>
-      <li><input type="checkbox" disabled> <strong>Schedule J</strong> - current expenses</li>
-      <li><input type="checkbox" disabled> <strong>Statement of Financial Affairs (Form 107)</strong></li>
-      <li><input type="checkbox" disabled> <strong><a href="https://meanstest.org/" title="means test">Means Test</a></strong> - Form 122A-1/122A-2 (Ch.7) or 122C-1/122C-2 (Ch.13)</li>
-      <li><input type="checkbox" disabled> <strong><a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 Plan</a> (Form 113)</strong> - if filing <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></li>
-      <li><input type="checkbox" disabled> <strong>Creditor Matrix</strong> - formatted list of all creditors (check local format requirements)</li>
-    </ul>
+    <h2>Schedules A/B - Your Property</h2>
+    <p>This is where you list EVERYTHING you own or have an interest in. Real estate, vehicles, bank accounts, furniture, clothing, retirement accounts, tax refunds owed to you, lawsuits you are a party to - everything. The number one rule: when in doubt, list it.</p>
   </div>
 
   <div class="content-section">
-    <h2>Phase 3: Filing Day</h2>
-    <ul>
-      <li><input type="checkbox" disabled> All forms signed and dated</li>
-      <li><input type="checkbox" disabled> Correct number of copies (call clerk for your district's requirements)</li>
-      <li><input type="checkbox" disabled> Filing fee: $338 (Ch.7) or $313 (Ch.13) - or fee waiver/installment application</li>
-      <li><input type="checkbox" disabled> <a href="https://bankruptcyfreshstart.org/" title="credit counseling">Credit counseling certificate</a> attached</li>
-      <li><input type="checkbox" disabled> Photo ID for the clerk</li>
-    </ul>
+    <h2>Schedule C - Exempt Property</h2>
+    <p>After listing everything in A/B, Schedule C is where you claim <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> to protect your property. Which <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> you can use depends on your state. Some states allow you to choose between state and federal exemptions; others require state exemptions only.</p>
   </div>
 
   <div class="content-section">
-    <h2>Phase 4: After Filing</h2>
-    <ul>
-      <li><input type="checkbox" disabled> Note your case number and assigned trustee</li>
-      <li><input type="checkbox" disabled> Note the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a> date (sent by the court)</li>
-      <li><input type="checkbox" disabled> Bring photo ID and Social Security card to the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a></li>
-      <li><input type="checkbox" disabled> Bring tax returns and pay stubs to the 341 meeting</li>
-      <li><input type="checkbox" disabled> Complete debtor education course (different from credit counseling)</li>
-      <li><input type="checkbox" disabled> File debtor education certificate with the court</li>
-      <li><input type="checkbox" disabled> Respond to any court orders or motions by the deadline</li>
-    </ul>
+    <h2>Schedules D, E/F - Your Creditors</h2>
+    <p><strong>Schedule D</strong> lists secured creditors (mortgages, car loans, liens). <strong>Schedule E/F</strong> lists priority creditors (taxes, child support) and general unsecured creditors (credit cards, medical bills). Include the creditor name, address, account number, and amount owed.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Schedules I and J - Income and Expenses</h2>
+    <p>Schedule I lists your current monthly income from all sources. Schedule J lists your current monthly expenses. The difference between I and J is your disposable income - an important number for the <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a> and for determining whether <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> is appropriate.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Form 107 - Statement of Financial Affairs</h2>
+    <p>This is the most detailed and time-consuming form. It asks about income for the past 2 years, payments to creditors, lawsuits, property transfers, gifts, losses, and much more. Answer every question completely and honestly.</p>
+  </div>
+
+  <div class="content-section">
+    <h2>Form 122A - Means Test</h2>
+    <p>The <a href="https://meanstest.org">means test</a> determines whether you qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>. Form 122A-1 is the initial calculation. If your income is below the state median, you pass. If above, Form 122A-2 calculates allowed expenses to determine disposable income.</p>
   </div>
 
   <div class="cta-box">
-    <h3>Related Guides</h3>
+    <h3>Related Resources</h3>
     <div class="cta-links">
-      <a href="/forms-guide.html" class="primary-btn">Forms Guide</a>
-      <a href="https://howtofilebankruptcy.org/step-by-step.html?utm_source=prosedebtors.org&utm_medium=referral&utm_campaign=btn-network" class="secondary-btn">Step-by-Step</a>
+      <a href="/checklist.html" class="primary-btn">Filing Checklist</a>
+      <a href="/common-mistakes.html" class="secondary-btn">Common Mistakes</a>
     </div>
   </div>
 
@@ -364,10 +307,10 @@
 </div>
 <div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem 1.5rem;max-width:700px;margin:2rem auto">
     <p style="color:#f0f6fc;font-weight:600;margin-bottom:0.5rem">Related Resources</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> - Complete filing guide</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/forms-guide.html" style="color:#58a6ff">Forms Guide</a> - Walk through each required form</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/common-mistakes.html" style="color:#58a6ff">Common Mistakes</a> - Avoid these filing errors</p>
-    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org</a> - <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">Means test</a> explained</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/checklist.html" style="color:#58a6ff">Filing Checklist</a> - Complete document checklist</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="https://meanstest.org" style="color:#58a6ff">meanstest.org</a> - <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">Means test</a> guide</p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0.25rem"><a href="/common-mistakes.html" style="color:#58a6ff">Common Mistakes</a> - Errors that lead to <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></p>
+    <p style="color:#9eaab6;font-size:0.9rem;margin-bottom:0"><a href="https://howtofilebankruptcy.org" style="color:#58a6ff">howtofilebankruptcy.org</a> - Full filing guide</p>
   </div>
 
 
@@ -455,7 +398,7 @@
     <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
     <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
   </div>
-  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
   <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=prosedebtors.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=prosedebtors.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=prosedebtors.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
